@@ -7,5 +7,7 @@ The data consists of 202 rows (country-year combinations) and 5 columns (variabl
 Missing Value: 
 * There are 2  missing values in Average Monthly Income. I deleted completely those values to prevent inaccurate calculations as income data is crucial for affordability analysis.
 * The other missing values are in the Region. In this case, I assigned the correct region based on country names.
-Duplicate rows: There are 2 duplicate values found and removed.
+
+Duplicate rows:
+* There are 2 duplicate values found and removed.
 ## Descriptive Statistics
